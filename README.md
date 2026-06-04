@@ -120,7 +120,3 @@ After completing this project, students will be able to:
 
 ## 🏁 Conclusion
 This project provides a complete, practical implementation of **Prompt Engineering and Dialogue Management**
-
----
-# Author
-Nischal Aremanda
